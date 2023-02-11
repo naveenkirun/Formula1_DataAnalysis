@@ -9,6 +9,8 @@ The data sets are:
 
 The following datasets were cleaned, and merged to create a single dataset of Results from races and respective driver & Constructor details.
 
-The data was analysed and visualized to plot 
-1. Top 10 drivers and their number of race wins.
-2. Top 10 constructors and their number of race wins.
+The data was analysed and visualized to plot:
+1. Total number of wins for each driver.
+2. Top 10 drivers and their number of race wins.
+3. Total number of wins for each constructor.
+4. Top 10 constructors and their number of race wins.
